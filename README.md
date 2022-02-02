@@ -23,7 +23,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/richardjdmckenzie/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>  
   <a href="mailto:richardmckenzie93@gmail.com" title="Write me an email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Icon" /></a>
-<a href="https://www.codewars.com/users/Richardjdmckenzie"><img src="https://www.codewars.com/users/Richardjdmckenzie/badges/large" title="Codewars rank"><a>
   </p>
 
 ---
+  
+<a href="https://www.codewars.com/users/Richardjdmckenzie"><img src="https://www.codewars.com/users/Richardjdmckenzie/badges/large" title="Codewars rank"><a>
