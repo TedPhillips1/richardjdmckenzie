@@ -26,5 +26,7 @@
   </p>
 
 ---
-  
+
+<p align="center">
 <a href="https://www.codewars.com/users/Richardjdmckenzie"><img src="https://www.codewars.com/users/Richardjdmckenzie/badges/large" title="Codewars rank"><a>
+  </p>
